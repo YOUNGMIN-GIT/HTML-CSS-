@@ -1,0 +1,21 @@
+body {
+    background: #f8f9f4;
+}
+img {
+    height: 400px;
+    width: 300px;
+}
+.orange-number {
+    color: orange;
+    font-size: 25px;
+}
+div {
+    background: blueviolet;
+    width: 500px;
+    padding: 20px;
+    line-height: 160%;
+}
+
+.orange-text {
+    color: orange;
+}

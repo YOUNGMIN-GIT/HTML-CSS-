@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#cat {
+    border: 1px solid gray;
+    width: 500px;
+    margin: 20px 0 0 20px;
+}
+h2 {
+    padding: 20px; 
+}
+p {
+    padding: 20px;
+    line-height: 160%;
+}

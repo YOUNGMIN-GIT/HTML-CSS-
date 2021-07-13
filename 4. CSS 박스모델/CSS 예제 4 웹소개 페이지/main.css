@@ -1,0 +1,14 @@
+h3 {
+    border: 5px solid green;
+    padding: 10px;
+}
+
+ul {
+    background: lightgray;
+    border-left: 5px solid skyblue;
+    padding: 20px 30px 30px 30px;
+}
+
+li {
+    margin: 10px;
+}

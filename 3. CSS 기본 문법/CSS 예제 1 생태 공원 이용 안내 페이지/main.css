@@ -1,0 +1,19 @@
+body {
+    font-family: '맑은고딕';
+    color: #444444;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-style: italic;
+    color: green;
+    text-decoration: underline;
+}
+
+span {
+    font-weight: bold;
+    color:black;
+}

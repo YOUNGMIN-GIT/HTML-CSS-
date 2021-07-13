@@ -1,0 +1,27 @@
+body {
+    color: gray;
+    background: #eeeeee;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 3px 3px 5px #444444;
+    color: blue;
+}
+
+h3 {
+    text-align: right;
+    color: #666666;
+    font-weight: normal;
+}
+
+p {
+    line-height: 180%;
+    font-size: 18px;
+}
+
+span {
+    color: black;
+    font-weight: bold;
+}
